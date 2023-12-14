@@ -7,5 +7,5 @@
   li.textContent = inputValue;
   li.appendChild(Checkbox);
   ul.appendChild(li);
-  input.value = "";
+  inputValue = "";
 };
